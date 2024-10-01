@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [GitHub]()
--   Live Site URL: [Vercel]()
+-   Solution URL: [GitHub](https://github.com/mikailafsin/frontend-mentor-todo-app-solution)
+-   Live Site URL: [Vercel](https://frontend-mentor-todo-app-solution-nine.vercel.app/)
 
 ## My process
 
